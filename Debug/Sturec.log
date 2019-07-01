@@ -1,0 +1,113 @@
+﻿  sturec.cpp
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(137): error C2065: 'cout': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(140): error C3861: 'delay': identifier not found
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(140): error C2065: 'cout': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(142): error C3861: 'delay': identifier not found
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(147): error C2065: 'RED': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(147): error C3861: 'textbackground': identifier not found
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(147): error C2065: 'BLACK': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(147): error C2065: 'CYAN': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(147): error C3861: 'textcolor': identifier not found
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(153): error C2065: 'RED': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(153): error C3861: 'textbackground': identifier not found
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(153): error C2065: 'WHITE': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(153): error C3861: 'textcolor': identifier not found
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(160): error C2065: 'ofstream': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(160): error C2146: syntax error: missing ';' before identifier 'fout'
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(160): error C2653: 'ios': is not a class or namespace name
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(160): error C2065: 'out': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(160): error C2065: 'binary': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(160): error C3861: 'fout': identifier not found
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(161): error C2065: 'BLUE': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(161): error C3861: 'textcolor': identifier not found
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(161): error C2065: 'WHITE': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(161): error C3861: 'textbackground': identifier not found
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(162): error C2065: 'cout': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(162): error C2065: 'cin': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(163): error C2065: 'cout': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(163): error C2065: 'cin': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(167): error C2065: 'fout': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(168): error C2065: 'fout': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(169): error C2065: 'cout': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(171): error C2065: 'fout': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(177): error C2065: 'cout': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(178): error C2065: 'fout': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(170): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: see declaration of 'getch'
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(179): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: see declaration of 'getch'
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(186): error C2065: 'BLUE': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(186): error C3861: 'textbackground': identifier not found
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(186): error C2065: 'WHITE': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(186): error C3861: 'textcolor': identifier not found
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(188): error C3861: 'gotoxy': identifier not found
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(188): error C2065: 'cout': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(191): error C3861: 'delay': identifier not found
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(191): error C3861: 'gotoxy': identifier not found
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(191): error C2065: 'cout': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(193): error C3861: 'delay': identifier not found
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(193): error C3861: 'gotoxy': identifier not found
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(193): error C2065: 'cout': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(194): error C3861: 'delay': identifier not found
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(194): error C3861: 'gotoxy': identifier not found
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(194): error C2065: 'cout': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(199): error C3861: 'delay': identifier not found
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(199): error C3861: 'gotoxy': identifier not found
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(199): error C2065: 'cout': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(203): error C3861: 'delay': identifier not found
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(203): error C3861: 'gotoxy': identifier not found
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(203): error C2065: 'cout': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(209): warning C5043: 'terminate': exception specification does not match previous declaration
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_terminate.h(29): note: see declaration of 'terminate'
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(209): warning C4273: 'terminate': inconsistent dll linkage
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_terminate.h(29): note: see previous definition of 'terminate'
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(212): error C2065: 'cout': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(213): error C2065: 'cout': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(214): error C2065: 'cout': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(215): error C2065: 'cout': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(216): error C2065: 'cout': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(217): error C2065: 'cout': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(218): error C2065: 'cout': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(219): error C2065: 'cout': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(220): error C2065: 'cout': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(221): error C2065: 'cout': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(222): error C2065: 'cout': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(223): error C3861: 'delay': identifier not found
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(224): error C2065: 'cout': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(225): error C3861: 'delay': identifier not found
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(225): error C2065: 'cout': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(225): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: see declaration of 'getch'
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(230): error C2065: 'WHITE': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(230): error C3861: 'textbackground': identifier not found
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(230): error C2065: 'BLACK': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(230): error C3861: 'textcolor': identifier not found
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(233): error C2065: 'fstream': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(233): error C2146: syntax error: missing ';' before identifier 'fo'
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(233): error C2653: 'ios': is not a class or namespace name
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(233): error C2065: 'in': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(233): error C2065: 'out': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(233): error C2065: 'binary': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(233): error C3861: 'fo': identifier not found
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(235): error C2065: 'cout': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(236): error C2014: preprocessor command must start as first nonwhite space
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(237): error C2065: 'BLACK': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(237): error C3861: 'textcolor': identifier not found
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(237): error C2143: syntax error: missing ')' before ';'
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(236): error C3861: 'textbackground': identifier not found
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(238): error C2065: 'cout': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(239): error C2065: 'cout': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(240): error C2065: 'cout': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(241): error C2065: 'cout': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(242): error C2065: 'cout': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(243): error C2065: 'cout': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(248): error C2065: 'cout': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(249): error C2065: 'cout': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(250): error C2065: 'cin': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(251): error C2065: 'fo': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(254): error C2065: 'fo': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(256): error C2065: 'cout': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(256): error C2065: 'fo': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(259): error C2065: 'cout': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(260): error C2065: 'cout': undeclared identifier
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(260): fatal error C1003: error count exceeds 100; stopping compilation
