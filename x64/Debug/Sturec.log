@@ -1,0 +1,24 @@
+﻿  sturec.cpp
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(132): warning C5043: 'terminate': exception specification does not match previous declaration
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_terminate.h(29): note: see declaration of 'terminate'
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(132): warning C4273: 'terminate': inconsistent dll linkage
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_terminate.h(29): note: see previous definition of 'terminate'
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(293): warning C5043: 'terminate': exception specification does not match previous declaration
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_terminate.h(29): note: see declaration of 'terminate'
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(319): warning C4102: 'afty': unreferenced label
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(316): warning C4101: 'pos': unreferenced local variable
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(316): warning C4101: 'newpin': unreferenced local variable
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(316): warning C4101: 'conpin': unreferenced local variable
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(447): warning C4101: 'opt': unreferenced local variable
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(446): warning C4101: 'i': unreferenced local variable
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(447): warning C4101: 'ch': unreferenced local variable
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(446): warning C4101: 'num': unreferenced local variable
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(447): warning C4101: 'mintro': unreferenced local variable
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(597): warning C4102: 'hell': unreferenced label
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(720): warning C4101: 'cl': unreferenced local variable
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(739): warning C4101: 'block': unreferenced local variable
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(986): warning C4101: 'pa': unreferenced local variable
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(986): warning C4101: 'name': unreferenced local variable
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(986): warning C4101: 'ad': unreferenced local variable
+c:\users\hp\desktop\myproject\sturec\sturec.cpp(986): warning C4101: 'ma': unreferenced local variable
+  Sturec.vcxproj -> C:\Users\hp\Desktop\myproject\Sturec\x64\Debug\Sturec.exe
