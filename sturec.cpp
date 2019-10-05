@@ -1,7 +1,7 @@
 
 //accSturec v_7 (upgraded sturec)
 
-/*Copyright(C) 2017-2018. The Priyanshu Ranjan open source project.
+/*Copyright(C) 2019-2020. The Priyanshu Ranjan open source project.
 Before you proceed,please read the terms and conditions carefully.
 Licenced under legal agencies.This is an open source project.
 You may not use this unless you agree with the terms and conditions.
@@ -22,7 +22,7 @@ User should proceed only if the user takes the responsibility of his/her any kin
 #include<fstream>
 #include<ctype.h>
 #include<conio.h>
-#define _CRT_SECURE_NO_WARNINGS
+
 using namespace std;
 int main(void);
 
