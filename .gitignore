@@ -1,0 +1,7 @@
+.vs
+*.sln
+*.aps
+*.rc
+Debug
+x64
+*.exe
